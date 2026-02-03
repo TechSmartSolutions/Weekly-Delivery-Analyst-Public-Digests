@@ -1,6 +1,6 @@
 # Weekly SCCM / ConfigMgr Digest
 
-Date: **2026-02-02** (TZ: America/Edmonton)
+Timestamp: **2026-02-03 10:35:10 (America/Edmonton)**
 
 Sources: Microsoft Learn (pinned) + SCCMentor + PSAppDeployToolkit + Visual Studio + Git for Desktop
 
@@ -61,11 +61,11 @@ Sources: Microsoft Learn (pinned) + SCCMentor + PSAppDeployToolkit + Visual Stud
 - We can&#8217;t activate Windows on this device &#8211; an Intune solution to Windows not activated (published 2022-09-14) — https://sccmentor.com/2022/09/14/we-cant-activate-windows-on-this-device-an-intune-solution-to-windows-not-activated/
 
 **Rotating topics (explore / optional)**
-- Utilising Cloud Management Gateway and Cloud DP – Part 3: Cloud DP (published 2017-11-20; updated 2020-10-10) — https://sccmentor.com/2017/11/20/utilising-cloud-management-gateway-and-cloud-dp-part-3-cloud-dp/
-- Utilising Cloud Management Gateway and Cloud DP – Part 2 Public Certs (published 2017-11-20; updated 2020-10-10) — https://sccmentor.com/2017/11/20/utilising-cloud-management-gateway-and-cloud-dp-part-2-public-certs/
-- Utilising Cloud Management Gateway and Cloud DP &#8211; Part 1 (published 2017-11-19; updated 2020-10-10) — https://sccmentor.com/2017/11/19/utilising-cmg-and-cloud-dp-part-1/
-- Parallels Mac Management for SCCM – Part 7 – Software Updates (published 2017-07-09; updated 2020-10-10) — https://sccmentor.com/2017/07/09/parallels-mac-management-for-sccm-part-7-software-updates/
-- Apple not listed in SUP Products after SUP reinstall &#8211; Parallels for SCCM (published 2017-05-23; updated 2020-10-10) — https://sccmentor.com/2017/05/23/apple-not-listed-in-sup-products-after-sup-reinstall-parallels-for-sccm/
+- All Software Updates expired after SUP reinstall (published 2017-05-12; updated 2020-10-10) — https://sccmentor.com/2017/05/12/all-software-updates-expired-after-sup-reinstall/
+- [CCMHTTP] : WINHTTP_CALLBACK_STATUS_FLAG_CERT_CN_INVALID is set (published 2021-11-24) — https://sccmentor.com/2021/11/24/ccmhttp-winhttp_callback_status_flag_cert_cn_invalid-is-set/
+- Upgrading the ConfigMgr Site Database 2014 &#8211; 2019 (published 2021-08-08) — https://sccmentor.com/2021/08/08/upgrading-the-configmgr-site-database-2014-2019/
+- Parallels Mac Management for SCCM &#8211; Collecting TS logs (published 2017-03-16; updated 2020-10-10) — https://sccmentor.com/2017/03/16/parallels-mac-management-for-sccm-collecting-ts-logs/
+- Disable/Enable replication for replica DB when updating ConfigMgr (published 2017-03-03; updated 2020-10-10) — https://sccmentor.com/2017/03/03/disableenable-replication-for-replica-db-when-updating-configmgr/
 
 ## Sources
 - https://learn.microsoft.com/en-us/intune/configmgr/core/plan-design/changes/whats-new-incremental-versions

@@ -1,6 +1,6 @@
-# TEST — GitHub Upstream Delivery Risk
+# GitHub Upstream Delivery Risk
 
-Timestamp: **2026-02-03 11:15:11 (America/Edmonton)**
+Timestamp: **2026-02-03 11:19:01 (America/Edmonton)**
 Week: **2026-W06**
 
 Primary source: GitHub Changelog RSS
@@ -26,4 +26,4 @@ https://github.blog/changelog/2026-01-28-acp-support-in-copilot-cli-is-now-in-pu
 
 ---
 Actionable item selected (max 1):
-- none (TEST calibration / no act-now items)
+- none

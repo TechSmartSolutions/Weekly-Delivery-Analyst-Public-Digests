@@ -1,6 +1,6 @@
 # Weekly SCCM / ConfigMgr Digest
 
-Timestamp: **2026-02-03 11:15:10 (America/Edmonton)**
+Timestamp: **2026-02-03 11:19:01 (America/Edmonton)**
 
 Sources: Microsoft Learn (pinned) + SCCMentor + PSAppDeployToolkit + Visual Studio + Git for Desktop
 
@@ -61,11 +61,11 @@ Sources: Microsoft Learn (pinned) + SCCMentor + PSAppDeployToolkit + Visual Stud
 - We can&#8217;t activate Windows on this device &#8211; an Intune solution to Windows not activated (published 2022-09-14) — https://sccmentor.com/2022/09/14/we-cant-activate-windows-on-this-device-an-intune-solution-to-windows-not-activated/
 
 **Rotating topics (explore / optional)**
-- Installing a Remote SUP in SCCM 2012 R2 on Windows Server 2012 R2 (published 2014-09-11; updated 2020-10-10) — https://sccmentor.com/2014/09/11/installing-a-remote-sup-in-sccm-2012-r2-on-windows-server-2012-r2/
-- Skipping Task Sequence because it&#8217;s not active yet (published 2015-06-24; updated 2020-10-10) — https://sccmentor.com/2015/06/24/skipping-task-sequence-because-its-not-active-yet/
-- Installing a replica MP in ConfigMgr 2012 (published 2015-05-19; updated 2020-10-10) — https://sccmentor.com/2015/05/19/installing-a-replica-mp-in-configmgr-2012/
-- Remove partition as part of Windows 10 in-place upgrade with PowerShell (published 2015-05-08; updated 2020-10-10) — https://sccmentor.com/2015/05/08/remove-partition-as-part-of-windows-10-in-place-upgrade-with-powershell/
-- Update Client Settings Priority Tool for ConfigMgr 2012 – v1.0 (published 2015-03-26; updated 2020-10-10) — https://sccmentor.com/2015/03/26/update-client-settings-priority-tool-for-configmgr-2012-v1-0/
+- Update Client Settings Priority Tool for ConfigMgr 2012 &#8211; Beta v1.0 (published 2015-03-19; updated 2020-10-10) — https://sccmentor.com/2015/03/19/update-client-settings-priority-tool-for-configmgr-2012-beta-v1-0/
+- Find Task Sequences targeted to a device via PowerShell (published 2015-01-28; updated 2020-10-10) — https://sccmentor.com/2015/01/28/find-task-sequences-targeted-to-a-device-via-powershell/
+- Suppress the &#8216;Welcome to the Task Sequence Wizard&#8217;  when using Boot Media in ConfigMgr 2012 (published 2015-01-27; updated 2020-10-10) — https://sccmentor.com/2015/01/27/suppress-the-welcome-to-the-task-sequence-wizard-when-using-boot-media-in-configmgr-2012/
+- Task Sequence step not applying (published 2014-12-10; updated 2020-10-10) — https://sccmentor.com/2014/12/10/task-sequence-step-not-applying/
+- MP not responding to HTTP requests (published 2014-10-30; updated 2020-10-10) — https://sccmentor.com/2014/10/30/mp-not-responding-to-http-requests/
 
 ## Sources
 - https://learn.microsoft.com/en-us/intune/configmgr/core/plan-design/changes/whats-new-incremental-versions
